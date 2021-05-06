@@ -1,0 +1,8 @@
+.results{
+    display: flex;
+    overflow-x: scroll;
+}
+.result_thumbnail{
+    height: 400px;
+    width: 250px;
+}

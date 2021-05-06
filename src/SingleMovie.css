@@ -1,0 +1,17 @@
+.SingleMovie{
+    display: flex;
+}
+.btn{
+    background-color: cornflowerblue;
+    display: flex;
+    height: 40px;
+    width: 95px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#releaseYear{
+    font-weight: bold;
+}
